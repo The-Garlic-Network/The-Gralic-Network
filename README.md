@@ -1,5 +1,5 @@
 ## The project is no longer supported!
-The current version of the program is located here. 
+<b style='color:red'>The current version of the program is located here - https://github.com/The-Garlic-Network/Spruce-Network</b>
 
 <p align="center">
 <img src="https://github.com/mrrva/media/blob/master/github_logo.png">
