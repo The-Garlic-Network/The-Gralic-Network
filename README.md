@@ -1,4 +1,5 @@
-<h1>There will be a major update soon, stay tuned.</h1>
+## The project is no longer supported!
+The current version of the program is located here. 
 
 <p align="center">
 <img src="https://github.com/mrrva/media/blob/master/github_logo.png">
